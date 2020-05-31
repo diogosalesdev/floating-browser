@@ -1,0 +1,22 @@
+{
+  "name": "floating-browser",
+  "version": "1.0.0",
+  "description": "floating-browser",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/diogosalesdev/floating-browser.git"
+  },
+  "author": "Diogo Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogosalesdev/floating-browser/issues"
+  },
+  "homepage": "https://github.com/diogosalesdev/floating-browser#readme",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
