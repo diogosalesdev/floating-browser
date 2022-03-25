@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/diogosalesdev/floating-browser#readme",
   "dependencies": {
-    "electron": "^9.0.0"
+    "electron": "^13.6.6"
   }
 }
